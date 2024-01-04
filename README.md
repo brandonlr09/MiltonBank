@@ -41,7 +41,7 @@ php artisan serve
 ```
 and open [http://127.0.0.1:8000](http://127.0.0.1:8000) in your browser.
 
-### Requirments
+### Requirements
 
 - [https://getcomposer.org/](Composer)
 - `MiltonBank.sql` is provided to create the database, simply update line 16 of `.env` with your own DB_PASSWORD.
